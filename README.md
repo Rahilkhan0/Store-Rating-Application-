@@ -40,8 +40,8 @@ This web application allows users to rate stores registered on the platform. It 
     - Can view details of all users (including Rating if the user is a Store Owner).
     - Can log out.
 
-![Admin Dashboard](C:\Users\Arbaz Khan\Store-Rating-App\images\AdminDahsboard.png)
-![Admin users](C:\Users\Arbaz Khan\Store-Rating-App\images\userlist.png)
+![Admin Dashboard](./images/AdminDahsboard.png)
+![Admin users](./images/userlist.png)
 
 2.  **Normal User:**
 
@@ -54,9 +54,9 @@ This web application allows users to rate stores registered on the platform. It 
     - Can modify their submitted rating.
     - Can log out.
 
-    ![Store Listing](C:\Users\Arbaz Khan\Store-Rating-App\images\userlist.png)
-    ![Login Form](C:\Users\Arbaz Khan\Store-Rating-App\images\image.png)
-    ![Signup Form](C:\Users\Arbaz Khan\Store-Rating-App\images\Signup.png)
+    ![Store Listing](./images/userlist.png)
+    ![Login Form](./images/image.png)
+    ![Signup Form](./images/Signup.png)
 
 3.  **Store Owner:**
 
@@ -66,7 +66,7 @@ This web application allows users to rate stores registered on the platform. It 
     - Can see the average rating of their store.
     - Can log out.
 
-    ![Store Owner Dashboard](C:\Users\Arbaz Khan\Store-Rating-App\images\Stores.png)
+    ![Store Owner Dashboard](./images/Stores.png)
 
 ## Functionalities
 
